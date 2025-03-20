@@ -19,6 +19,10 @@ This repository contains detailed reports on various projects covering diverse f
 ### **5. Predictive Analysis of Player Performance and Game Outcomes in CS:GO Matches**
 - **Summary:** Using machine learning techniques, this project analyzes over 1,400 CS:GO matches to predict player performance and match outcomes. Various models, including Random Forest, Gradient Boosting, and XGBoost, are employed to derive insights into the strategic and statistical elements that contribute to team success.
 
+### **6. Using Machine Learning to Classify Ugandan Preschool Children's Drawings**
+- **Summary:** This research develops a machine learning model based on ResNet50 to classify Ugandan preschool children's drawings according to Lowenfeld’s artistic development stages: scribble, pre-schematic, and schematic. The model was trained on 757 labeled images and achieved an **intraclass correlation coefficient (ICC) of 0.85** with human coders, along with **81% validation accuracy and 78% test accuracy**. By automating the classification process, the study facilitates large-scale analysis of children’s cognitive and artistic development, offering scalable solutions for similar research in educational and developmental psychology.
+
+This follows the same structure as your previous projects while summarizing the core methodology and findings. Let me know if you need modifications! 🚀
 ## **Usage**
 Each report is structured with:
 - **Introduction** – Background and motivation
