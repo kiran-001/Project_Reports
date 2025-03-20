@@ -22,7 +22,6 @@ This repository contains detailed reports on various projects covering diverse f
 ### **6. Using Machine Learning to Classify Ugandan Preschool Children's Drawings**
 - **Summary:** This research develops a machine learning model based on ResNet50 to classify Ugandan preschool children's drawings according to Lowenfeld’s artistic development stages: scribble, pre-schematic, and schematic. The model was trained on 757 labeled images and achieved an **intraclass correlation coefficient (ICC) of 0.85** with human coders, along with **81% validation accuracy and 78% test accuracy**. By automating the classification process, the study facilitates large-scale analysis of children’s cognitive and artistic development, offering scalable solutions for similar research in educational and developmental psychology.
 
-This follows the same structure as your previous projects while summarizing the core methodology and findings. Let me know if you need modifications! 🚀
 ## **Usage**
 Each report is structured with:
 - **Introduction** – Background and motivation
